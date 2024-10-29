@@ -6,3 +6,4 @@ print("\nType of b : ", type(b))
 
 c = 1 + 6j
 print("\nType of c : ", type(c))
+
