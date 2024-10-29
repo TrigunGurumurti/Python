@@ -1,0 +1,1 @@
+print("Hi"); print("Welcome to Python Programming")  # Python Script
